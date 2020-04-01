@@ -1,0 +1,9 @@
+1. master에서 work.txt 작업 1-5line
+2. work.txt 원격저장소 push
+3. brunch gon 으로 변경, work.txt 1-5line 동기화
+4. master brunch 변경
+5. work.txt 1-3line 수정 후 원격저장소 push
+6. gon brunch 변경
+7. 1-3line 수정 fetch 
+
+8. status 보고 다음 시나리오 결정.
