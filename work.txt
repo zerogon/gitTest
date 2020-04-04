@@ -1,6 +1,6 @@
-1: init
-2: init
-3: init
+1: init + gonWork
+2: init + gonWork
+3: init + gonWork
 4: init
 5: init
  
