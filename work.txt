@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 1: init + gonWork
 2: init + gonWork
 3: init + gonWork
+=======
+1: init + 1work
+2: init + 1work
+3: init + 1work
+>>>>>>> refs/remotes/origin/master
 4: init
 5: init
  
