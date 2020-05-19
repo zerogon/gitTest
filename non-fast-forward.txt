@@ -1,2 +1,4 @@
 마스터생성
 ***********issue 1 작업
+&&&&& issue2 작업
+confilct 해결 후 merge
