@@ -1,5 +1,5 @@
 master file make
-1work
-2work
-3work
+1work issue1 완성 + issue2 필요
+2work issue1 완성 + issue2 필요
+3work issue1 완성 + issue2 필요
 4work issue1 work 진행중
