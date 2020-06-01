@@ -1,4 +1,9 @@
 master file make
-
-
-revert 유도하기
+1work issue1 완성 + issue2 필요
+2work issue1 완성 + issue2 필요
+3work issue1 완성 + issue2 필요
+4work issue1 work 진행중
+1work issue2
+2work issue2
+3work issue2
+4work issue2 진행중 개발기 배포까지
