@@ -1,3 +1,5 @@
 folder out
 
 ignore test
+
+out work
