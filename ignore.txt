@@ -3,3 +3,4 @@ folder out
 ignore test
 
 out work
+out work 2
