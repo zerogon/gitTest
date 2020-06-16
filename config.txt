@@ -1,1 +1,1 @@
---prd config
+--dev config
